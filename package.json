@@ -12,6 +12,7 @@
     "axios": "^0.24.0",
     "echarts": "^5.2.2",
     "pinia": "^2.0.9",
+    "vant": "^3.4.2",
     "vite": "^2.7.2",
     "vite-plugin-style-import": "^1.4.1",
     "vue": "^3.2.25",
